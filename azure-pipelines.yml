@@ -27,5 +27,6 @@ steps:
     resourceGroupName: 'ricky666'
     location: 'East Asia'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://github.com/outofthewoods1988/provisionAzureResource/blob/main/template.json'
+    csmFileLink: 'https://rickystorage666.blob.core.windows.net/template/template.json'
+    csmParametersFileLink: "https://rickystorage666.blob.core.windows.net/template/parameters.json"
     deploymentMode: 'Incremental'
